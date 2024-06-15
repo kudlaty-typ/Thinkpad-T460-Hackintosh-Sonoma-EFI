@@ -29,7 +29,7 @@ Fill in the empty fields as follows:
 - SmUUID into SystemUUID
 
 2. **Downloading macOS recovery image**
-3. **Guide can be found here:**
+   Guide can be found here:
    https://dortania.github.io/OpenCore-Install-Guide/installer-guide/
 5. **Boot the USB drive and proceed with the installation like any other system**
 6. **Disabling AppleSecureBoot (optional if the installer doesn't work)**
